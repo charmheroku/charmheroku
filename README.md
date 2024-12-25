@@ -20,5 +20,5 @@ Here's a little more about me:
 - **AWS Certified Solutions Architect – Associate**  
   [View Credential](https://www.credly.com/badges/00296e86-3d11-418c-9832-e8669960ba9c/public_url)
 - **Advanced Python Programming**  
-  Rank: **5 kyu** on [Codewars](https://www.codewars.com/users/oleksii.iva/badges/large)
+  Rank: **5 kyu** on [Codewars](https://www.codewars.com/users/oleksii.iva)
 - **English Proficiency**: B2 (Upper-Intermediate)
