@@ -3,14 +3,25 @@
 <!--
 **charmheroku/charmheroku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a **Python Developer** with extensive experience in **backend development**, **cloud technologies**, and a strong passion for **building efficient and scalable solutions**. 
+Here's a little more about me:
+
+---
+
+## 🛠️ Skills and Technologies
+- **Programming Languages**: Python (Django, FastAPI, Flask), JavaScript (React)
+- **Cloud Platforms**: AWS (Certified Solutions Architect)
+- **Databases**: PostgreSQL, MongoDB, Redis
+- **DevOps Tools**: Docker, GitLab CI/CD, Kubernetes
+- **Other Skills**: Data processing (Pandas), Async Python, Web Scraping, AI/ML (Scikit-learn)
+
+---
+
+## 🎓 Certifications and Achievements
+- **AWS Certified Solutions Architect – Associate**  
+  [View Credential](https://www.credly.com/badges/00296e86-3d11-418c-9832-e8669960ba9c/public_url)
+- **Advanced Python Programming**  
+  Rank: **5 kyu** on [Codewars](https://www.codewars.com/users/oleksii.iva/badges/large)
+- **English Proficiency**: B2 (Upper-Intermediate)
