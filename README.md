@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**charmheroku/charmheroku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Welcome to my GitHub profile! 🚀
 
 I am a **Python Developer** with extensive experience in **backend development**, **cloud technologies**, and a strong passion for **building efficient and scalable solutions**. 
